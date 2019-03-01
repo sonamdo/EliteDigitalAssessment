@@ -1,0 +1,52 @@
+body {
+  font-family: "Georgia";
+}
+
+.header-footer{
+  background-color: #87abab;
+  color: white
+}
+
+.standardButton {
+  background-color: white;
+  border: 1px solid grey;
+  padding: 15px;
+}
+
+.standardButton:hover{
+  background-color: #E8E8E8;
+}
+
+#bannerSection {
+  border-bottom: 2px solid #E8E8E8;
+  padding-bottom: 50px;
+}
+
+#columnSection {
+  margin-top: 50px
+}
+
+.standardColumn{
+  margin-top:45px;
+}
+
+#jumbotronSection {
+  background-color: blue
+}
+
+input{
+  width: 100%;
+  padding: 7px;
+  margin: 10px;
+  background-color: #E8E8E8;
+  border: none
+}
+
+textarea{
+  width: 100%;
+  padding: 7px;
+  margin: 10px;
+  background-color: #E8E8E8;
+  border: none;
+  height: 70px;
+}
