@@ -31,7 +31,15 @@ body {
 }
 
 #jumbotronSection {
-  background-color: blue
+  margin-top: 130px;
+  background-image: url('/images/jumbotronImage.jpg');
+  height: 600px;
+  filter: brightness(50%);
+  background-attachment: fixed
+}
+
+#jumbotronText{
+  color: black
 }
 
 input{
